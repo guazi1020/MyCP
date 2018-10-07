@@ -1,0 +1,691 @@
+{
+	"current": 1,
+	"rowCount": 10,
+	"rows": [
+		{
+			"id": null,
+			"gameNumber": 170607001,
+			"gameData": 1496831100000,
+			"league": "国际赛",
+			"homeName": "日本",
+			"homeRank": "50",
+			"guestName": "叙利亚",
+			"guestRank": "77",
+			"homeE": 0.640548,
+			"pingE": 4.09239,
+			"guestE": 5.2173,
+			"homeIntegrate": null,
+			"guestIntegrate": null,
+			"sps": [
+				{
+					"id": null,
+					"gameNumber": 170607001,
+					"ball": 0,
+					"homeSP": 1.08,
+					"pingSP": 6.9,
+					"guestSP": 17.0
+				}, {
+					"id": null,
+					"gameNumber": 170607001,
+					"ball": -2,
+					"homeSP": 2.08,
+					"pingSP": 4.05,
+					"guestSP": 2.5
+				}
+			],
+			"leagueNumber": 61,
+			"introduce": "周三001|日本|叙利亚|-2|2017/06/07 18:23:00",
+			"closeData": 1496830980000
+		}, {
+			"id": null,
+			"gameNumber": 170607002,
+			"gameData": 1496861100000,
+			"league": "国际赛",
+			"homeName": "意大利",
+			"homeRank": "12",
+			"guestName": "乌拉圭",
+			"guestRank": "16",
+			"homeE": 0.8622960000000001,
+			"pingE": 1.48428,
+			"guestE": 1.62944,
+			"homeIntegrate": null,
+			"guestIntegrate": null,
+			"sps": [
+				{
+					"id": null,
+					"gameNumber": 170607002,
+					"ball": 0,
+					"homeSP": 1.83,
+					"pingSP": 3.15,
+					"guestSP": 3.8
+				}, {
+					"id": null,
+					"gameNumber": 170607002,
+					"ball": -1,
+					"homeSP": 3.8,
+					"pingSP": 3.25,
+					"guestSP": 1.79
+				}
+			],
+			"leagueNumber": 61,
+			"introduce": "周三002|意大利|乌拉圭|-1|2017/06/07 23:58:00",
+			"closeData": 1496851080000
+		}, {
+			"id": null,
+			"gameNumber": 170607003,
+			"gameData": 1496863800000,
+			"league": "国际赛",
+			"homeName": "西班牙",
+			"homeRank": "10",
+			"guestName": "哥伦比亚",
+			"guestRank": "5",
+			"homeE": 0.5844299999999999,
+			"pingE": 1.6093,
+			"guestE": 3.359325,
+			"homeIntegrate": null,
+			"guestIntegrate": null,
+			"sps": [
+				{
+					"id": null,
+					"gameNumber": 170607003,
+					"ball": 0,
+					"homeSP": 1.38,
+					"pingSP": 3.8,
+					"guestSP": 7.05
+				}, {
+					"id": null,
+					"gameNumber": 170607003,
+					"ball": -1,
+					"homeSP": 2.33,
+					"pingSP": 3.25,
+					"guestSP": 2.55
+				}
+			],
+			"leagueNumber": 61,
+			"introduce": "周三003|西班牙|哥伦比亚|-1|2017/06/07 23:58:00",
+			"closeData": 1496851080000
+		}, {
+			"id": null,
+			"gameNumber": 170607004,
+			"gameData": 1496874600000,
+			"league": "巴西甲级联赛",
+			"homeName": "米内罗竞技",
+			"homeRank": "17",
+			"guestName": "阿瓦伊",
+			"guestRank": "14",
+			"homeE": 0.533943,
+			"pingE": 2.1053849999999996,
+			"guestE": 4.216395,
+			"homeIntegrate": null,
+			"guestIntegrate": null,
+			"sps": [
+				{
+					"id": null,
+					"gameNumber": 170607004,
+					"ball": 0,
+					"homeSP": 1.23,
+					"pingSP": 4.85,
+					"guestSP": 9.05
+				}, {
+					"id": null,
+					"gameNumber": 170607004,
+					"ball": -1,
+					"homeSP": 1.76,
+					"pingSP": 3.8,
+					"guestSP": 3.35
+				}
+			],
+			"leagueNumber": 160,
+			"introduce": "周三004|米内罗竞技|阿瓦伊|-1|2017/06/07 23:58:00",
+			"closeData": 1496851080000
+		}, {
+			"id": null,
+			"gameNumber": 170607005,
+			"gameData": 1496874600000,
+			"league": "巴西甲级联赛",
+			"homeName": "科里蒂巴",
+			"homeRank": "4",
+			"guestName": "帕尔梅拉斯",
+			"guestRank": "13",
+			"homeE": 1.2094110000000002,
+			"pingE": 1.4931,
+			"guestE": 1.04598,
+			"homeIntegrate": null,
+			"guestIntegrate": null,
+			"sps": [
+				{
+					"id": null,
+					"gameNumber": 170607005,
+					"ball": 0,
+					"homeSP": 2.43,
+					"pingSP": 3.0,
+					"guestSP": 2.6
+				}, {
+					"id": null,
+					"gameNumber": 170607005,
+					"ball": 1,
+					"homeSP": 1.36,
+					"pingSP": 4.2,
+					"guestSP": 6.4
+				}
+			],
+			"leagueNumber": 160,
+			"introduce": "周三005|科里蒂巴|帕尔梅拉斯|1|2017/06/07 23:58:00",
+			"closeData": 1496851080000
+		}, {
+			"id": null,
+			"gameNumber": 170607006,
+			"gameData": 1496880000000,
+			"league": "巴西甲级联赛",
+			"homeName": "桑托斯",
+			"homeRank": "16",
+			"guestName": "博塔弗戈",
+			"guestRank": "7",
+			"homeE": 0.5873579999999999,
+			"pingE": 1.468395,
+			"guestE": 2.911545,
+			"homeIntegrate": null,
+			"guestIntegrate": null,
+			"sps": [
+				{
+					"id": null,
+					"gameNumber": 170607006,
+					"ball": 0,
+					"homeSP": 1.46,
+					"pingSP": 3.65,
+					"guestSP": 5.85
+				}, {
+					"id": null,
+					"gameNumber": 170607006,
+					"ball": -1,
+					"homeSP": 2.56,
+					"pingSP": 3.3,
+					"guestSP": 2.3
+				}
+			],
+			"leagueNumber": 160,
+			"introduce": "周三006|桑托斯|博塔弗戈|-1|2017/06/07 23:58:00",
+			"closeData": 1496851080000
+		}, {
+			"id": null,
+			"gameNumber": 170607007,
+			"gameData": 1496962800000,
+			"league": "巴西甲级联赛",
+			"homeName": "沙佩科恩斯",
+			"homeRank": "1",
+			"guestName": "格雷米奥",
+			"guestRank": "3",
+			"homeE": 1.169924,
+			"pingE": 1.33574,
+			"guestE": 1.124864,
+			"homeIntegrate": null,
+			"guestIntegrate": null,
+			"sps": [
+				{
+					"id": null,
+					"gameNumber": 170607007,
+					"ball": 0,
+					"homeSP": 2.54,
+					"pingSP": 2.9,
+					"guestSP": 2.56
+				}, {
+					"id": null,
+					"gameNumber": 170607007,
+					"ball": -1,
+					"homeSP": 6.7,
+					"pingSP": 4.0,
+					"guestSP": 1.37
+				}
+			],
+			"leagueNumber": 160,
+			"introduce": "周三007|沙佩科恩斯|格雷米奥|-1|2017/06/08 23:58:00",
+			"closeData": 1496937480000
+		}, {
+			"id": null,
+			"gameNumber": 170607008,
+			"gameData": 1496882700000,
+			"league": "巴西甲级联赛",
+			"homeName": "累西腓体育",
+			"homeRank": "15",
+			"guestName": "弗拉门戈",
+			"guestRank": "12",
+			"homeE": 1.17207,
+			"pingE": 1.3240049999999999,
+			"guestE": 1.080888,
+			"homeIntegrate": null,
+			"guestIntegrate": null,
+			"sps": [
+				{
+					"id": null,
+					"gameNumber": 170607008,
+					"ball": 0,
+					"homeSP": 2.7,
+					"pingSP": 3.05,
+					"guestSP": 2.32
+				}, {
+					"id": null,
+					"gameNumber": 170607008,
+					"ball": 1,
+					"homeSP": 1.47,
+					"pingSP": 3.86,
+					"guestSP": 5.25
+				}
+			],
+			"leagueNumber": 160,
+			"introduce": "周三008|累西腓体育|弗拉门戈|1|2017/06/07 23:58:00",
+			"closeData": 1496851080000
+		}, {
+			"id": null,
+			"gameNumber": 170607009,
+			"gameData": 1496882700000,
+			"league": "巴西甲级联赛",
+			"homeName": "瓦斯科达伽马",
+			"homeRank": "11",
+			"guestName": "科林蒂安",
+			"guestRank": "2",
+			"homeE": 0.9977039999999999,
+			"pingE": 1.2069,
+			"guestE": 1.269135,
+			"homeIntegrate": null,
+			"guestIntegrate": null,
+			"sps": [
+				{
+					"id": null,
+					"gameNumber": 170607009,
+					"ball": 0,
+					"homeSP": 2.48,
+					"pingSP": 3.0,
+					"guestSP": 2.55
+				}, {
+					"id": null,
+					"gameNumber": 170607009,
+					"ball": 1,
+					"homeSP": 1.4,
+					"pingSP": 4.05,
+					"guestSP": 6.0
+				}
+			],
+			"leagueNumber": 160,
+			"introduce": "周三009|瓦斯科达伽马|科林蒂安|1|2017/06/07 23:58:00",
+			"closeData": 1496851080000
+		}, {
+			"id": null,
+			"gameNumber": 170607010,
+			"gameData": 1496835300000,
+			"league": "国际赛",
+			"homeName": "中国",
+			"homeRank": "82",
+			"guestName": "菲律宾",
+			"guestRank": "126",
+			"homeE": 0.0,
+			"pingE": 0.0,
+			"guestE": 0.0,
+			"homeIntegrate": null,
+			"guestIntegrate": null,
+			"sps": [
+				{
+					"id": null,
+					"gameNumber": 170607010,
+					"ball": 0,
+					"homeSP": 0.0,
+					"pingSP": 0.0,
+					"guestSP": 0.0
+				}, {
+					"id": null,
+					"gameNumber": 170607010,
+					"ball": -2,
+					"homeSP": 1.99,
+					"pingSP": 3.85,
+					"guestSP": 2.72
+				}
+			],
+			"leagueNumber": 61,
+			"introduce": "周三010|中国|菲律宾|-2|2017/06/07 19:33:00",
+			"closeData": 1496835180000
+		}, {
+			"id": null,
+			"gameNumber": 170607011,
+			"gameData": 1496854800000,
+			"league": "国际赛",
+			"homeName": "伊拉克",
+			"homeRank": "120",
+			"guestName": "韩国",
+			"guestRank": "43",
+			"homeE": 0.23882999999999996,
+			"pingE": 0.14874499999999996,
+			"guestE": 1.278569,
+			"homeIntegrate": null,
+			"guestIntegrate": null,
+			"sps": [
+				{
+					"id": null,
+					"gameNumber": 170607011,
+					"ball": 0,
+					"homeSP": 5.7,
+					"pingSP": 3.55,
+					"guestSP": 1.49
+				}, {
+					"id": null,
+					"gameNumber": 170607011,
+					"ball": 1,
+					"homeSP": 2.23,
+					"pingSP": 3.1,
+					"guestSP": 2.8
+				}
+			],
+			"leagueNumber": 61,
+			"introduce": "周三011|伊拉克|韩国|1|2017/06/07 23:58:00",
+			"closeData": 1496851080000
+		}, {
+			"id": null,
+			"gameNumber": 170608001,
+			"gameData": 1496916000000,
+			"league": "世界杯预选赛",
+			"homeName": "澳大利亚",
+			"homeRank": "48",
+			"guestName": "沙特",
+			"guestRank": "53",
+			"homeE": 0.6003900000000001,
+			"pingE": 2.1204250000000004,
+			"guestE": 3.8114999999999997,
+			"homeIntegrate": null,
+			"guestIntegrate": null,
+			"sps": [
+				{
+					"id": null,
+					"gameNumber": 170608001,
+					"ball": 0,
+					"homeSP": 1.26,
+					"pingSP": 4.45,
+					"guestSP": 9.0
+				}, {
+					"id": null,
+					"gameNumber": 170608001,
+					"ball": -1,
+					"homeSP": 1.97,
+					"pingSP": 3.3,
+					"guestSP": 3.15
+				}
+			],
+			"leagueNumber": 141,
+			"introduce": "周四001|澳大利亚|沙特|-1|2017/06/08 17:58:00",
+			"closeData": 1496915880000
+		}, {
+			"id": null,
+			"gameNumber": 170608002,
+			"gameData": 1496961000000,
+			"league": "巴西甲级联赛",
+			"homeName": "戈亚尼亚竞技",
+			"homeRank": "20",
+			"guestName": "庞特普雷塔",
+			"guestRank": "6",
+			"homeE": 1.0259340000000001,
+			"pingE": 1.1649800000000001,
+			"guestE": 1.189934,
+			"homeIntegrate": null,
+			"guestIntegrate": null,
+			"sps": [
+				{
+					"id": null,
+					"gameNumber": 170608002,
+					"ball": 0,
+					"homeSP": 2.73,
+					"pingSP": 3.1,
+					"guestSP": 2.27
+				}, {
+					"id": null,
+					"gameNumber": 170608002,
+					"ball": 1,
+					"homeSP": 1.5,
+					"pingSP": 3.8,
+					"guestSP": 5.0
+				}
+			],
+			"leagueNumber": 160,
+			"introduce": "周四002|戈亚尼亚竞技|庞特普雷塔|1|2017/06/08 23:58:00",
+			"closeData": 1496937480000
+		}, {
+			"id": null,
+			"gameNumber": 170608003,
+			"gameData": 1496961000000,
+			"league": "巴西甲级联赛",
+			"homeName": "圣保罗",
+			"homeRank": "10",
+			"guestName": "维多利亚",
+			"guestRank": "18",
+			"homeE": 0.68936,
+			"pingE": 1.89574,
+			"guestE": 2.6494,
+			"homeIntegrate": null,
+			"guestIntegrate": null,
+			"sps": [
+				{
+					"id": null,
+					"gameNumber": 170608003,
+					"ball": 0,
+					"homeSP": 1.4,
+					"pingSP": 3.85,
+					"guestSP": 6.5
+				}, {
+					"id": null,
+					"gameNumber": 170608003,
+					"ball": -1,
+					"homeSP": 2.3,
+					"pingSP": 3.32,
+					"guestSP": 2.55
+				}
+			],
+			"leagueNumber": 160,
+			"introduce": "周四003|圣保罗|维多利亚|-1|2017/06/08 23:58:00",
+			"closeData": 1496937480000
+		}, {
+			"id": null,
+			"gameNumber": 170608004,
+			"gameData": 1496966400000,
+			"league": "巴西甲级联赛",
+			"homeName": "巴伊亚",
+			"homeRank": "9",
+			"guestName": "克鲁塞罗",
+			"guestRank": "8",
+			"homeE": 1.045045,
+			"pingE": 1.3340999999999998,
+			"guestE": 1.2293100000000001,
+			"homeIntegrate": null,
+			"guestIntegrate": null,
+			"sps": [
+				{
+					"id": null,
+					"gameNumber": 170608004,
+					"ball": 0,
+					"homeSP": 2.35,
+					"pingSP": 3.0,
+					"guestSP": 2.7
+				}, {
+					"id": null,
+					"gameNumber": 170608004,
+					"ball": -1,
+					"homeSP": 5.4,
+					"pingSP": 3.8,
+					"guestSP": 1.47
+				}
+			],
+			"leagueNumber": 160,
+			"introduce": "周四004|巴伊亚|克鲁塞罗|-1|2017/06/08 23:58:00",
+			"closeData": 1496937480000
+		}, {
+			"id": null,
+			"gameNumber": 170608005,
+			"gameData": 1496966400000,
+			"league": "世界杯预选赛",
+			"homeName": "美国",
+			"homeRank": "23",
+			"guestName": "特立尼达和多巴哥",
+			"guestRank": "77",
+			"homeE": 0.8171820000000001,
+			"pingE": 4.674869999999999,
+			"guestE": 2.2932,
+			"homeIntegrate": null,
+			"guestIntegrate": null,
+			"sps": [
+				{
+					"id": null,
+					"gameNumber": 170608005,
+					"ball": 0,
+					"homeSP": 1.11,
+					"pingSP": 6.35,
+					"guestSP": 14.0
+				}, {
+					"id": null,
+					"gameNumber": 170608005,
+					"ball": -2,
+					"homeSP": 2.27,
+					"pingSP": 4.0,
+					"guestSP": 2.28
+				}
+			],
+			"leagueNumber": 176,
+			"introduce": "周四005|美国|特立尼达和多巴哥|-2|2017/06/08 23:58:00",
+			"closeData": 1496937480000
+		}, {
+			"id": null,
+			"gameNumber": 170608006,
+			"gameData": 1496973600000,
+			"league": "世界杯预选赛",
+			"homeName": "哥斯达黎加",
+			"homeRank": "19",
+			"guestName": "巴拿马",
+			"guestRank": "59",
+			"homeE": 1.01286,
+			"pingE": 2.1846,
+			"guestE": 1.3804,
+			"homeIntegrate": null,
+			"guestIntegrate": null,
+			"sps": [
+				{
+					"id": null,
+					"gameNumber": 170608006,
+					"ball": 0,
+					"homeSP": 1.53,
+					"pingSP": 3.3,
+					"guestSP": 5.8
+				}, {
+					"id": null,
+					"gameNumber": 170608006,
+					"ball": -1,
+					"homeSP": 2.8,
+					"pingSP": 3.15,
+					"guestSP": 2.2
+				}
+			],
+			"leagueNumber": 176,
+			"introduce": "周四006|哥斯达黎加|巴拿马|-1|2017/06/09 09:58:00",
+			"closeData": 1496973480000
+		}, {
+			"id": null,
+			"gameNumber": 170608007,
+			"gameData": 1496973600000,
+			"league": "世界杯预选赛",
+			"homeName": "墨西哥",
+			"homeRank": "17",
+			"guestName": "洪都拉斯",
+			"guestRank": "69",
+			"homeE": 0.863464,
+			"pingE": 3.59172,
+			"guestE": 2.0056,
+			"homeIntegrate": null,
+			"guestIntegrate": null,
+			"sps": [
+				{
+					"id": null,
+					"gameNumber": 170608007,
+					"ball": 0,
+					"homeSP": 1.19,
+					"pingSP": 4.95,
+					"guestSP": 11.5
+				}, {
+					"id": null,
+					"gameNumber": 170608007,
+					"ball": -1,
+					"homeSP": 1.74,
+					"pingSP": 3.5,
+					"guestSP": 3.75
+				}
+			],
+			"leagueNumber": 176,
+			"introduce": "周四007|墨西哥|洪都拉斯|-1|2017/06/09 09:58:00",
+			"closeData": 1496973480000
+		}, {
+			"id": null,
+			"gameNumber": 170608010,
+			"gameData": 1496908800000,
+			"league": "世界U20锦标赛",
+			"homeName": "乌拉圭U20",
+			"homeRank": "",
+			"guestName": "委内瑞拉U20",
+			"guestRank": "",
+			"homeE": 1.125,
+			"pingE": 1.179,
+			"guestE": 1.296,
+			"homeIntegrate": null,
+			"guestIntegrate": null,
+			"sps": [
+				{
+					"id": null,
+					"gameNumber": 170608010,
+					"ball": 0,
+					"homeSP": 2.5,
+					"pingSP": 2.62,
+					"guestSP": 2.88
+				}, {
+					"id": null,
+					"gameNumber": 170608010,
+					"ball": -1,
+					"homeSP": 6.25,
+					"pingSP": 3.85,
+					"guestSP": 1.41
+				}
+			],
+			"leagueNumber": 132,
+			"introduce": "周四010|乌拉圭U20|委内瑞拉U20|-1|2017/06/08 15:58:00",
+			"closeData": 1496908680000
+		}, {
+			"id": null,
+			"gameNumber": 170608011,
+			"gameData": 1496919600000,
+			"league": "世界U20锦标赛",
+			"homeName": "意大利U20",
+			"homeRank": "",
+			"guestName": "英格兰U20",
+			"guestRank": "",
+			"homeE": 1.3725,
+			"pingE": 1.215,
+			"guestE": 1.0485,
+			"homeIntegrate": null,
+			"guestIntegrate": null,
+			"sps": [
+				{
+					"id": null,
+					"gameNumber": 170608011,
+					"ball": 0,
+					"homeSP": 3.05,
+					"pingSP": 2.7,
+					"guestSP": 2.33
+				}, {
+					"id": null,
+					"gameNumber": 170608011,
+					"ball": 1,
+					"homeSP": 1.47,
+					"pingSP": 3.7,
+					"guestSP": 5.6
+				}
+			],
+			"leagueNumber": 132,
+			"introduce": "周四011|意大利U20|英格兰U20|1|2017/06/08 18:58:00",
+			"closeData": 1496919480000
+		}
+	],
+	"total": 1123
+}
+
+
+

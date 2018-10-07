@@ -1,0 +1,26 @@
+body {
+	position: absolute;
+}
+.div-top{
+	margin: 10px 0px 10px 0px;
+}
+.div-table{
+	
+}
+.div-foot{
+	height:30px
+}
+.div-add{
+	
+}
+.div-page{
+	text-align: right;
+}
+.page-input{
+	width:50px;
+	height:20px;
+}
+.panel-body{
+	margin:0;
+	padding:0;
+}

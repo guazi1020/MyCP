@@ -1,0 +1,15 @@
+{
+	"left_menu": [
+		{
+			"name": "left_menu1",
+			"url": "user/list",
+			"uplevelname":"按钮1",
+			"returntab":"list"
+		}, {
+			"name": "left_menu2",
+			"url": "user/input",
+			"uplevelname":"按钮1",
+			"returntab":"input"
+		}
+	]
+}

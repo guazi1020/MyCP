@@ -1,0 +1,15 @@
+{
+	"left_menu": [
+		{
+			"name": "left_menu3",
+			"url": "left_url3",
+			"uplevelname":"按钮2",
+			"returntab":""
+		}, {
+			"name": "left_menu4",
+			"url": "left_url4",
+			"uplevelname":"按钮2",
+			"returntab":""
+		}
+	]
+}

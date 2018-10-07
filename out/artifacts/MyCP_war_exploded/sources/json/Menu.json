@@ -1,0 +1,21 @@
+{
+	"menu_top": [
+		{
+			"menu_id": "1",
+			 "url": "Sources/json/left1.json",
+			"name": "按钮1"
+		}, {
+			"menu_id": "2",
+			"url": "Sources/json/left2.json",
+			"name": "按钮2"
+		},{
+			"menu_id": "3",
+			"url": "list",
+			"name": "按钮1"
+		}, {
+			"menu_id": "4",
+			"url": "top",
+			"name": "按钮2"
+		}
+	]
+}

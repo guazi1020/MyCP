@@ -1,0 +1,19 @@
+
+.Ltop {
+	height: 50px;
+	background-color:#101010;
+}
+
+
+.Lmiddle {
+	
+}
+
+.Lleft {
+	/*background-color: #776868*/
+}
+.panel-default{
+	height:530px;
+	margin:0;
+	padding:0
+}

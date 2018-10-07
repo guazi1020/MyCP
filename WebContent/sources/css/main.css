@@ -1,0 +1,21 @@
+#left_menu{
+	padding:20px 0px 10px 10px;
+	width:200px;
+	text-align: center;
+}
+.main{
+	padding-right:0px
+}
+#sps{
+	width:120px
+}
+.jisuan{
+	padding:5px 5px 0 5px;
+	text-align:left
+}
+.jisuan p input[type=text]{
+	width:100px
+}
+.jisuan p input[type=button]{
+	width:150px
+}

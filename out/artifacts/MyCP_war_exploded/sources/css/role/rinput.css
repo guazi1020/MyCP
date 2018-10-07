@@ -1,0 +1,35 @@
+div {
+	line-height: 18px
+}
+
+strong {
+	float: left;
+	line-height: 20px;
+	margin: 2px 20px 0px 20px;
+}
+
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.check_ground li {
+	position: relative;
+	float: left;
+	height: 16px;
+	margin: 2px 1px 0 0;
+	opacity: .8;
+	display: list-item;
+	text-align: -webkit-match-parent;
+}
+
+.check_ground label {
+	font-size: smaller;
+	margin: 0 8px 0 3px;
+}
+.panel-heading{
+	line-height:8px;
+
+}
